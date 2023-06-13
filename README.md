@@ -1,8 +1,8 @@
 # Hi there! Nice to meet you. <img align='bottom' width='50px' src='https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330'  />
 
-I’m Temple Umejiaku, and I love developing web applications that solve real-world problems. Whenever a project calls for building responsive and interactive user interfaces that deliver a seamless user experience, or a full-stack web application that's both sleek on the surface and powerful under the hood... I’m always close by.
+I’m Temple Umejiaku, and I love developing web applications that solve real-world problems. Whenever a project calls for building responsive and interactive user interfaces that deliver seamless user experience, or a full-stack web application that's both sleek on the surface and powerful under the hood... I’m always close by.
 
-## 🧰 Languages and Tools
+## 🧰 The Tools I use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
