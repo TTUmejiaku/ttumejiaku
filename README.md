@@ -17,8 +17,10 @@ I’m Temple Umejiaku, and I love developing web applications that solve real-wo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏅 Stats
-<img align='left' weight='47%' src="https://github-readme-stats.vercel.app/api?username=ttumejiaku&show_icons=true&theme=algolia"/>
 <!--
-<img align='left' weight='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttumejiaku&layout=compact&theme=algolia"/>
+<img align='left' weight='47%' src="https://github-readme-stats.vercel.app/api?username=ttumejiaku&show_icons=true&theme=algolia"/>
 -->
+<img align='left' weight='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttumejiaku&layout=compact&theme=algolia"/>
+
+
 
